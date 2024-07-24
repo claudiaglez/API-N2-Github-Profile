@@ -25,7 +25,7 @@ cd API-N2-Github-Profile
 
 * Go Live 
 
-* The search starts! :ninja:
+* The search starts! :detective:
 
   
 ## 👩‍💻 Author
